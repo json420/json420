@@ -1,4 +1,9 @@
-## Hi there 👋
+# Jason Gerard DeRose
+
+Former Red Hat, former System76.  You might know me from Novacut.
+
+Historically all my open-source stuff has been on Launchpad:
+https://launchpad.net/~jderose
 
 <!--
 **json420/json420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
